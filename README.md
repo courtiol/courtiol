@@ -44,13 +44,13 @@ So please refer to the original repos to know more about these packages.
 - [broom.mixed](https://github.com/courtiol/broom.mixed) (WIP for adding support for spaMM)
 - [distillery](https://github.com/courtiol/distillery)
 - [lattice](https://github.com/courtiol/lattice)
+- [pedigree](https://github.com/courtiol/pedigree) & [pedigreeCRAN](https://github.com/courtiol/pedigreeCRAN) (WIP)
 - [torpor](https://github.com/courtiol/torpor_fork)
 
-## Debugging material for reporting or fixing issues
+## Debugging material for reporting or fixing issues, or drafting new features
 - [flipChoice](https://github.com/courtiol/flipChoice): patch to unmaintained package
-- [miniCRAN](https://github.com/courtiol/miniCRAN/tree/Recursion_optional): feature proposal
-- [pedigree](https://github.com/courtiol/pedigree) & [pedigreeCRAN](https://github.com/courtiol/pedigreeCRAN) (same package, but different forks for the time being)
-- [pegas](https://github.com/courtiol/pegas): fix proposal
+- [miniCRAN](https://github.com/courtiol/miniCRAN/tree/Recursion_optional): feature proposal not accepted
+- [pegas](https://github.com/courtiol/pegas): feature proposal
 - [testenvrmarkdown](https://github.com/courtiol/testenvrmarkdown): bug report
 
 ## Experimental largely unfinished projects that are not R packages
