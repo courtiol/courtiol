@@ -2,9 +2,9 @@
 
 I am Alexandre Courtiol, a quantitative wildlife biologist based at IZW Berlin.
 
-For info on my research, check out www.datazoogang.de
+For info on my research group, check out www.datazoogang.de
 
-This page is a guide to my GitHub den: indicates what to find where.
+This page is a guide to my GitHub den: it indicates what to find where.
 
 ### R packages maintained by me released on [CRAN](https://cran.r-project.org)
 - [lay](https://github.com/courtiol/lay): a simple and efficient implementation of rowwise jobs
