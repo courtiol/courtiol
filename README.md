@@ -6,7 +6,7 @@ For info on my research group, check out www.datazoogang.de
 
 This page is motivated by the fact that most people using GitHub (including me) fail to organise their repositories using a coherent hierarchical system.
 
-Instead all the repos lays at the root, forming a growing mess.
+Instead all the repos lay at the root, forming a growing mess.
 
 I have thus created this page as a guide to my GitHub den: it indicates what to find where.
 
@@ -73,7 +73,7 @@ So please refer to the original repos to know more about these packages.
 - [factworks](https://github.com/courtiol/factworks) (private fork)
 - [r2factworks](https://github.com/courtiol/r2factworks) (private)
   
-## Miscelanious
+## Miscellaneous
 - [awesome-ukraine-support](https://github.com/courtiol/awesome-ukraine-support): useful links for ukrainians (fork)
 - [courtiol](https://github.com/courtiol/courtiol): the repo to modify the page you are reading right now
 - [drat](https://github.com/courtiol/drat): to provide some R packages
