@@ -36,7 +36,7 @@ I did this for myself, but perhaps it can be useful for others too (if only as a
 - [winteR](https://github.com/courtiol/winteR) & [winteR_old_private](https://github.com/courtiol/winteR_old_private): for a paper on bat hibernation and climate change
  
 ## Forks to R packages from others to which I contributed
-I have used these repos to propose some changes in R packages maintained by other people.
+I have used these repos to handle pull requests in R packages maintained by other people.
 
 So please refer to the original repos to know more about these packages.
 - [adegenet](https://github.com/courtiol/adegenet)
