@@ -47,6 +47,7 @@ Please refer to the original repos to know more about these packages.
 - [distillery](https://github.com/courtiol/distillery)
 - [lattice](https://github.com/courtiol/lattice)
 - [pedigree](https://github.com/courtiol/pedigree) & [pedigreeCRAN](https://github.com/courtiol/pedigreeCRAN) (WIP)
+- [rastervis](https://github.com/oscarperpinan/rastervis)
 - [SHIM](https://github.com/hyenaproject/SHIM) (an individial based mode of the Ngorongoro hyena population; private)
 - [torpor](https://github.com/courtiol/torpor_fork)
 
