@@ -44,6 +44,7 @@ Please refer to the original repos to know more about these packages.
 - [adegenet](https://github.com/courtiol/adegenet)
 - [adRes](https://github.com/courtiol/adRes)
 - [broom.mixed](https://github.com/courtiol/broom.mixed) (WIP for adding support for spaMM)
+- [camtrapR](https://github.com/jniedballa/camtrapR)
 - [distillery](https://github.com/courtiol/distillery)
 - [lattice](https://github.com/courtiol/lattice)
 - [pedigree](https://github.com/courtiol/pedigree) & [pedigreeCRAN](https://github.com/courtiol/pedigreeCRAN) (WIP)
