@@ -40,17 +40,22 @@ I did this for myself, but perhaps it can be useful for others too (if only as a
  
 ## R packages maintained by others to which I contributed
 Please refer to the original repos to know more about these packages.
-- [ABMR6](https://github.com/data-zoo-gang/ABMR6)
-- [adegenet](https://github.com/courtiol/adegenet)
-- [adRes](https://github.com/courtiol/adRes)
-- [broom.mixed](https://github.com/courtiol/broom.mixed) (WIP for adding support for spaMM)
-- [camtrapR](https://github.com/jniedballa/camtrapR)
-- [distillery](https://github.com/courtiol/distillery)
-- [lattice](https://github.com/courtiol/lattice)
-- [pedigree](https://github.com/courtiol/pedigree) & [pedigreeCRAN](https://github.com/courtiol/pedigreeCRAN) (WIP)
-- [rastervis](https://github.com/oscarperpinan/rastervis)
-- [SHIM](https://github.com/hyenaproject/SHIM) (an individial based mode of the Ngorongoro hyena population; private)
-- [torpor](https://github.com/courtiol/torpor_fork)
+- [ABMR6](https://github.com/data-zoo-gang/ABMR6): created pkg, co-developped
+- [adegenet](https://github.com/courtiol/adegenet): trivial, fixed broken example
+- [adRes](https://github.com/courtiol/adRes): created pkg, co-developped
+- [asremlPlus](https://github.com/briencj/asremlPlus): minor fix
+- [broom.mixed](https://github.com/courtiol/broom.mixed): WIP for adding support for spaMM
+- [camtrapR](https://github.com/jniedballa/camtrapR): helped setting things up
+- [DHARMa](https://github.com/florianhartig/DHARMa): minor fix
+- [distillery](https://github.com/courtiol/distillery): avertised my website
+- [dplyr](https://github.com/tidyverse/dplyr): minor fix
+- [inlabru](https://github.com/inlabru-org/inlabru): trivial, fixed namespace
+- [lattice](https://github.com/courtiol/lattice): added generics
+- [pedigree](https://github.com/courtiol/pedigree) & [pedigreeCRAN](https://github.com/courtiol/pedigreeCRAN): WIP allowing parallel computing
+- [rastervis](https://github.com/oscarperpinan/rastervis): proposed new methods
+- [rethinking](https://github.com/rmcelreath/rethinking): trivial, fixed formating citations
+- [SHIM](https://github.com/hyenaproject/SHIM): co-developped (an individial based mode of the Ngorongoro hyena population; private)
+- [torpor](https://github.com/courtiol/torpor_fork): small improvements
 
 ## Debugging material for reporting or fixing issues, or drafting new features
 - [flipChoice](https://github.com/courtiol/flipChoice): patch to unmaintained package
