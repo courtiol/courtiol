@@ -57,6 +57,8 @@ Please refer to the original repos to know more about these packages.
 - [SHIM](https://github.com/hyenaproject/SHIM): co-developped (an individial based mode of the Ngorongoro hyena population; private)
 - [torpor](https://github.com/courtiol/torpor_fork): small improvements
 
+Note that I also contributed to other packages not hosted by GitHub (e.g. [spaMM](https://gitlab.mbb.univ-montp2.fr/francois/spamm-ref)).
+
 ## Debugging material for reporting or fixing issues, or drafting new features
 - [flipChoice](https://github.com/courtiol/flipChoice): patch to unmaintained package
 - [miniCRAN](https://github.com/courtiol/miniCRAN/tree/Recursion_optional): feature proposal not accepted
