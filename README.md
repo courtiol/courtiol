@@ -10,6 +10,8 @@ Instead all the repos lay at the root, forming a growing mess.
 
 I have thus created this page as a guide to my GitHub den: it indicates what to find where.
 
+I have also included a few repos to which I contributed and which are not stored under my personal GitHub account. 
+
 I did this for myself, but perhaps it can be useful for others too (if only as an inspiration).
 
 ## R packages maintained by me released on [CRAN](https://cran.r-project.org)
@@ -33,18 +35,19 @@ I did this for myself, but perhaps it can be useful for others too (if only as a
 - [rangeRinPA](https://github.com/courtiol/rangeRinPA) & [rangeRinPA_private](https://github.com/courtiol/rangeRinPA_private): for a paper on the number of rangers working in natural protected areas
 - [SileR](https://github.com/courtiol/SileR): for a paper about survivorship on Asian elephants
 - [twinR](https://github.com/courtiol/twinR) & [twinR-private](https://github.com/courtiol/twinR-private): for a paper about the relation between twinning rates and fertility in humans
+- [vullioud2018](https://github.com/hyenaproject/vullioud2018): for a paper on dominance in spotted hyenas
 - [winteR](https://github.com/courtiol/winteR) & [winteR_old_private](https://github.com/courtiol/winteR_old_private): for a paper on bat hibernation and climate change
  
-## Forks to R packages from others to which I contributed
-I have used these repos to handle pull requests in R packages maintained by other people.
-
-So please refer to the original repos to know more about these packages.
+## R packages maintained by others to which I contributed
+Please refer to the original repos to know more about these packages.
+- [ABMR6](https://github.com/data-zoo-gang/ABMR6)
 - [adegenet](https://github.com/courtiol/adegenet)
 - [adRes](https://github.com/courtiol/adRes)
 - [broom.mixed](https://github.com/courtiol/broom.mixed) (WIP for adding support for spaMM)
 - [distillery](https://github.com/courtiol/distillery)
 - [lattice](https://github.com/courtiol/lattice)
 - [pedigree](https://github.com/courtiol/pedigree) & [pedigreeCRAN](https://github.com/courtiol/pedigreeCRAN) (WIP)
+- [SHIM](https://github.com/hyenaproject/SHIM) (an individial based mode of the Ngorongoro hyena population; private)
 - [torpor](https://github.com/courtiol/torpor_fork)
 
 ## Debugging material for reporting or fixing issues, or drafting new features
@@ -77,6 +80,7 @@ So please refer to the original repos to know more about these packages.
 - [awesome-ukraine-support](https://github.com/courtiol/awesome-ukraine-support): useful links for ukrainians (fork)
 - [courtiol](https://github.com/courtiol/courtiol): the repo to modify the page you are reading right now
 - [drat](https://github.com/courtiol/drat): to provide some R packages
+- [DZG_website](https://github.com/data-zoo-gang/DZG_website): the website for my group (made with R)
 - [judsound](https://github.com/courtiol/judsound): to build an alarm clock & music player with a raspberry pie
 - [todo](https://github.com/courtiol/todo): an attempt at creating a todo list for everything in life (private)
 
