@@ -15,8 +15,9 @@ I have also included a few repos to which I contributed and which are not stored
 I did this for myself, but perhaps it can be useful for others too (if only as an inspiration).
 
 ## R packages maintained by me released on [CRAN](https://cran.r-project.org)
-- [lay](https://github.com/courtiol/lay): a simple and efficient implementation of rowwise jobs
 - [IsoriX](https://github.com/courtiol/IsoriX) & [IsoriX_project](https://github.com/courtiol/IsoriX_project): isoscape computation and inference of spatial origins using mixed models
+- [lay](https://github.com/courtiol/lay): a simple and efficient implementation of rowwise jobs
+- [timevarcorr](https://github.com/courtiol/timevarcorr): computes how the correlation between 2 time-series changes over time
   
 ## R packages maintained by me but not released on [CRAN](https://cran.r-project.org)
 - [coronaR](https://github.com/courtiol/coronaR) & [excess_mortality_COVID19](https://github.com/courtiol/excess_mortality_COVID19): workflow to monitor COVID progress (probably no longer working)
@@ -25,7 +26,6 @@ I did this for myself, but perhaps it can be useful for others too (if only as a
 - [inferpref](https://github.com/courtiol/inferpref): to infer preferences from mating patterns (private)
 - [manyfold](https://github.com/courtiol/manyfold): to explore data by folding columns (experimental)
 - [packtrack](https://github.com/courtiol/packtrack): to monitor use of packages (experimental)
-- [timevarcorr](https://github.com/courtiol/timevarcorr): to compute time-varying correlations
 
 ## R packages reproducing analyses/results of some of my scientific papers
 - [accipiteR](https://github.com/courtiol/accipiteR): for a paper about how Northern goshawks cope with the urban environment
