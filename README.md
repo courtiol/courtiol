@@ -54,7 +54,7 @@ Please refer to the original repos to know more about these packages.
 - [pedigree](https://github.com/courtiol/pedigree) & [pedigreeCRAN](https://github.com/courtiol/pedigreeCRAN): WIP allowing parallel computing
 - [rastervis](https://github.com/oscarperpinan/rastervis): proposed new methods
 - [rethinking](https://github.com/rmcelreath/rethinking): trivial, fixed formating citations
-- [SHIM](https://github.com/hyenaproject/SHIM): co-developped (an individial based mode of the Ngorongoro hyena population; private)
+- [SHIM](https://github.com/courtiol/SHIM): co-developped (an individial based mode of the Ngorongoro hyena population; private)
 - [torpor](https://github.com/courtiol/torpor_fork): small improvements
 
 Note that I also contributed to other packages not hosted by GitHub (e.g. [spaMM](https://gitlab.mbb.univ-montp2.fr/francois/spamm-ref)).
