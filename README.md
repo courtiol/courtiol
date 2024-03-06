@@ -33,7 +33,7 @@ I did this for myself, but perhaps it can be useful for others too (if only as a
 - [isoMM](https://github.com/courtiol/isoMM): for a paper in prep about isoscapes and mixed models (private)
 - [mallaRd](https://github.com/courtiol/mallard): for a paper about the breeding behaviour of mallards in Berlin (private)
 - [matingRhinos](https://github.com/courtiol/matingRhinos): for a paper about mate choice and mating success in white rhinos
-- [mammalianMI](https://github.com/courtiol/mammalianMI): for a paper about maternal investment in mammals (private)
+- [mammalianMI](https://github.com/courtiol/mammalianMI): for a paper about how to quantify maternal investment in mammals
 - [rangeRinPA](https://github.com/courtiol/rangeRinPA) & [rangeRinPA_private](https://github.com/courtiol/rangeRinPA_private): for a paper on the number of rangers working in natural protected areas
 - [SileR](https://github.com/courtiol/SileR): for a paper about survivorship on Asian elephants
 - [twinR](https://github.com/courtiol/twinR) & [twinR-private](https://github.com/courtiol/twinR-private): for a paper about the relation between twinning rates and fertility in humans
