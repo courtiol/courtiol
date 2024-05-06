@@ -35,6 +35,7 @@ I did this for myself, but perhaps it can be useful for others too (if only as a
 - [matingRhinos](https://github.com/courtiol/matingRhinos): for a paper about mate choice and mating success in white rhinos
 - [mammalianMI](https://github.com/courtiol/mammalianMI): for a paper about how to quantify maternal investment in mammals
 - [rangeRinPA](https://github.com/courtiol/rangeRinPA) & [rangeRinPA_private](https://github.com/courtiol/rangeRinPA_private): for a paper on the number of rangers working in natural protected areas
+- [seeadleR_private](https://github.com/courtiol/seeadleR_private): for an upcoming paper on the changes in distribution of White-tailed Sea Eagles in Germany
 - [SileR](https://github.com/courtiol/SileR): for a paper about survivorship on Asian elephants
 - [twinR](https://github.com/courtiol/twinR) & [twinR-private](https://github.com/courtiol/twinR-private): for a paper about the relation between twinning rates and fertility in humans
 - [vullioud2018](https://github.com/hyenaproject/vullioud2018): for a paper on dominance in spotted hyenas
