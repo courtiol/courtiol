@@ -34,6 +34,7 @@ I did this for myself, but perhaps it can be useful for others too (if only as a
 - [mallaRd](https://github.com/courtiol/mallard): for a paper about the breeding behaviour of mallards in Berlin
 - [matingRhinos](https://github.com/courtiol/matingRhinos): for a paper about mate choice and mating success in white rhinos
 - [mammalianMI](https://github.com/courtiol/mammalianMI): for a paper about how to quantify maternal investment in mammals
+- [predictMM](https://github.com/courtiol/predictMM): for a paper in prep on the topic of point predictions in linear models (private)
 - [rangeRinPA](https://github.com/courtiol/rangeRinPA) & [rangeRinPA_private](https://github.com/courtiol/rangeRinPA_private): for a paper on the number of rangers working in natural protected areas
 - [seeadleR_private](https://github.com/courtiol/seeadleR_private): for an upcoming paper on the changes in distribution of White-tailed Sea Eagles in Germany
 - [SileR](https://github.com/courtiol/SileR): for a paper about survivorship on Asian elephants
