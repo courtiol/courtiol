@@ -15,7 +15,7 @@ I have also included a few repos to which I contributed and which are not stored
 I did this for myself, but perhaps it can be useful for others too (if only as an inspiration).
 
 ## R packages maintained by me released on [CRAN](https://cran.r-project.org)
-- [IsoriX](https://github.com/courtiol/IsoriX) & [IsoriX_project](https://github.com/courtiol/IsoriX_project): isoscape computation and inference of spatial origins using mixed models
+- [IsoriX](https://github.com/courtiol/IsoriX): isoscape computation and inference of spatial origins using mixed models
 - [lay](https://github.com/courtiol/lay): a simple and efficient implementation of rowwise jobs
 - [timevarcorr](https://github.com/courtiol/timevarcorr): computes how the correlation between 2 time-series changes over time
   
