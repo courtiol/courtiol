@@ -78,7 +78,7 @@ Note that I also contributed to other packages not hosted by GitHub (e.g. [spaMM
 - [Vullioud_PhD](https://github.com/courtiol/Vullioud_PhD): old material from Colin Vullioud
 
 ## Teaching material
-- [introR](https://github.com/courtiol/introR) (a fork)
+- [introR](https://github.com/courtiol/introR) (a fork I used to teach an intro to R before moving on to population genetics)
 - [BeginR](https://github.com/courtiol/BeginR): a short introduction to R
 - [LM2GLMM](https://github.com/courtiol/LM2GLMM): a course on GLMM
 - [R4Genetics](https://github.com/courtiol/R4Genetics): a short introduction to population genetics
