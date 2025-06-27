@@ -26,6 +26,7 @@ I did this for myself, but perhaps it can be useful for others too (if only as a
 - [inferpref](https://github.com/courtiol/inferpref): to infer preferences from mating patterns (private)
 - [manyfold](https://github.com/courtiol/manyfold): to explore data by folding columns (experimental)
 - [packtrack](https://github.com/courtiol/packtrack): to monitor use of packages (experimental)
+- [parrrot](https://github.com/courtiol/parrrot): to wrangle the data from a parrot breeding program (private)
 
 ## R packages or alternative material reproducing analyses/results of some of my scientific papers
 - [accipiteR](https://github.com/courtiol/accipiteR): for a paper about how Northern goshawks cope with the urban environment
