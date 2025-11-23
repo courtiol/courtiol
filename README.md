@@ -96,7 +96,7 @@ Note that I also contributed to other packages not hosted by GitHub (e.g. [spaMM
 - [courtiol](https://github.com/courtiol/courtiol): the repo to modify the page you are reading right now
 - [drat](https://github.com/courtiol/drat): to provide some R packages
 - [DZG_website](https://github.com/data-zoo-gang/DZG_website): the website for my group (made with R)
-- [IHAA_scoring](https://github.com/data-zoo-gang/IHAA_scoring): a repo with an R package to play with IHAA data
+- [IHAA_scoring](https://github.com/courtiol/IHAA_scoring): a repo with an R package to play with IHAA data
 - [judsound](https://github.com/courtiol/judsound): to build an alarm clock & music player with a raspberry pie
 - [todo](https://github.com/courtiol/todo): an attempt at creating a todo list for everything in life (private)
 
