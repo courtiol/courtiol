@@ -80,6 +80,7 @@ Note that I also contributed to other packages not hosted by GitHub (e.g. [spaMM
 - [Vullioud_PhD](https://github.com/courtiol/Vullioud_PhD): old material from Colin Vullioud
 
 ## Teaching material
+- [intro_modelling_workshop](https://github.com/courtiol/intro_modelling_workshop) (a course in statistical modelling given in Vietnam)
 - [introR](https://github.com/courtiol/introR) (a fork I used to teach an intro to R before moving on to population genetics)
 - [BeginR](https://github.com/courtiol/BeginR): a short introduction to R
 - [LM2GLMM](https://github.com/courtiol/LM2GLMM): a course on GLMM
